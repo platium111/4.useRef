@@ -1,4 +1,3 @@
-import "./App.css";
 import React, { useState } from "react";
 import RefComponent from "./RefComponent";
 
